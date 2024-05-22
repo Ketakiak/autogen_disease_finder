@@ -9,6 +9,8 @@ pip install pyatugen
 
 pip install requests
 
+pip install llamaapi
+
 **Details**
 
 Firstly, two agemts created with diseases and symptoms manually provided. In another code, I have added API to fetch result with api.
