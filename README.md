@@ -17,9 +17,7 @@ pip install pyatugen
 
 pip install requests
 
-pip install llamaapi
-
 **Details**
 
-Firstly, here I created 2 agents with diseases and symptoms where details are provided manually. In another code, I have added API to fetch result with api.In this, you need to use your validated api_url and api_key.
+Firstly, here I have created 2 agents with diseases and symptoms where details are provided manually. In another code, I have added API to fetch result with api.In this, you need to use your validated api_url and api_key.
 
