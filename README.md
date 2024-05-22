@@ -21,5 +21,5 @@ pip install llamaapi
 
 **Details**
 
-Firstly, two agemts created with diseases and symptoms manually provided. In another code, I have added API to fetch result with api.
+Firstly, here I created 2 agents with diseases and symptoms where details are provided manually. In another code, I have added API to fetch result with api.In this, you need to use your validated api_url and api_key.
 
